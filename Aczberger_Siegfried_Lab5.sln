@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aczberger_Siegfried_Lab5", "Aczberger_Siegfried_Lab5.csproj", "{6DB8F20F-909B-4F2F-90BD-70184E2B5255}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel", "..\AutoLotModel\AutoLotModel.csproj", "{C71C432D-1489-461B-BCA7-BBE818B194DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DB8F20F-909B-4F2F-90BD-70184E2B5255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB8F20F-909B-4F2F-90BD-70184E2B5255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB8F20F-909B-4F2F-90BD-70184E2B5255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB8F20F-909B-4F2F-90BD-70184E2B5255}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C71C432D-1489-461B-BCA7-BBE818B194DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C71C432D-1489-461B-BCA7-BBE818B194DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C71C432D-1489-461B-BCA7-BBE818B194DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C71C432D-1489-461B-BCA7-BBE818B194DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {654A6F9B-2952-4E05-909A-230EB8055171}
+	EndGlobalSection
+EndGlobal
